@@ -1,2 +1,3 @@
 # util
-工具
+
+imageToLinearGradient: https://lyzsg.github.io/util/imageToLinearGradient/
